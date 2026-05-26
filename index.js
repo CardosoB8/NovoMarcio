@@ -16,7 +16,7 @@ const app = express();
 // CONFIGURAÇÕES DIRETAS
 // =================================================================
 const CONFIG = {
-    REDIS_URL: 'redis://default:JyefUsxHJljfdvs8HACumEyLE7XNgLvG@redis-19242.c266.us-east-1-3.ec2.cloud.redislabs.com:19242',
+    REDIS_URL: 'redis://default:ICu63KwCUq24nDuUmfPQp7iKC8AVqwEJ@distinguished-superbright-progressive-25445.db.redis.io:10224',
     ADMIN_PASSWORD: 'MrDoso2026@Admin',
     SESSION_SECRET: 'mr-doso-secret-key-2026'
 };
