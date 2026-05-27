@@ -17,7 +17,7 @@ const app = express();
 // =================================================================
 const CONFIG = {
     REDIS_URL: 'redis://default:ICu63KwCUq24nDuUmfPQp7iKC8AVqwEJ@distinguished-superbright-progressive-25445.db.redis.io:10224',
-    ADMIN_PASSWORD: 'MrDoso2026@Admin',
+    ADMIN_PASSWORD: 'manang2026@Admin',
     SESSION_SECRET: 'mr-doso-secret-key-2026'
 };
 
