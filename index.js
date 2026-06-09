@@ -17,8 +17,8 @@ const app = express();
 // =================================================================
 const CONFIG = {
     REDIS_URL: 'redis://default:ICu63KwCUq24nDuUmfPQp7iKC8AVqwEJ@distinguished-superbright-progressive-25445.db.redis.io:10224',
-    ADMIN_PASSWORD: 'manang2026@Admin',
-    SESSION_SECRET: 'mr-doso-secret-key-2026'
+    ADMIN_PASSWORD: 'manang2026@Admin26',
+    SESSION_SECRET: 'mr-doso-secret-keyp-2026'
 };
 
 const PORT = process.env.PORT || 3000;
