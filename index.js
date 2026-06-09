@@ -14,7 +14,7 @@ const app = express();
 
 // =================================================================
 // CONFIGURAÇÕES DIRETAS
-// =================================================================
+// 
 const CONFIG = {
     REDIS_URL: 'redis://default:ICu63KwCUq24nDuUmfPQp7iKC8AVqwEJ@distinguished-superbright-progressive-25445.db.redis.io:10224',
     ADMIN_PASSWORD: 'manang2026@Admin26',
